@@ -27,5 +27,5 @@ Walkthrough of Key Visuals
 Business Impact & Key Insights
  * Attrition Hotspot: High turnover is observed among employees in the early-to-mid career experience brackets.
  * Gender Breakdown: Male employees account for 63.2% of total attrition.
- * Departmental Concentration: Operations and Administration represent the largest portion of the workforce, making them key focus areas for retention policies.
-https://github.com/anshikachauhan012/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Snapshot.jpeg
+ * Departmental Concentration: Operations and Administration represent the largest portion of the workforce, making them key focus areas for retention policies
+ * 
